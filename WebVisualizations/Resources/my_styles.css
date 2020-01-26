@@ -1,0 +1,18 @@
+.carousel-control-prev-icon {
+    color: #FFF;
+    background-color: rgba(39, 38, 38, 0.568);
+}
+
+.carousel-control-next-icon {
+    color: #FFF;
+    background-color: rgba(39, 38, 38, 0.568);
+}
+
+.carousel-caption {
+    color: #FFF;
+    background-color: rgba(39, 38, 38, 0.568);
+}
+
+body {
+    background-color: gainsboro;
+}
